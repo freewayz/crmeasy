@@ -1,0 +1,2 @@
+# crmeasy
+Django Project
